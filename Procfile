@@ -1,1 +1,1 @@
-worker: python pyro.py
+web: vendor/bin/heroku-php-apache2
